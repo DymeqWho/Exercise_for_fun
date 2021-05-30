@@ -1,4 +1,4 @@
-package arraylist.MobilePhone;
+package arraylist.mobilephone;
 
 public class Main {
     public static void main(String[] args) {
